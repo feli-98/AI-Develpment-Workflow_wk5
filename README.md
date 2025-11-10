@@ -9,7 +9,7 @@
 
 | Name | Email | Role |
 |------|-------|------|
-| Max (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Team Leader |
+| Immaculate Chege | [chegeimmaculate001@gmail.com](mailto:chegeimmaculate001@gmail.com) | Team Leader |
 | Alfred Nyongesa | [alfred.dev8@gmail.com](mailto:alfred.dev8@gmail.com) | Technical Implementation |
 | Feli (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Data Analysis |
 | Stella (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Research |
@@ -45,3 +45,4 @@
 
 **Submitted to:** PLP Academy  
 **Date:** [Add submission date]
+
