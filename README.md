@@ -11,11 +11,9 @@
 |------|-------|------|
 | Immaculate Chege | [chegeimmaculate001@gmail.com](mailto:chegeimmaculate001@gmail.com) | Team Leader |
 | Alfred Nyongesa | [alfred.dev8@gmail.com](mailto:alfred.dev8@gmail.com) | Technical Implementation |
-| Felistus Mukiri | [mukirifelistus@gmail.com](mailto:mukirifelistus@gmail.com) | Data Analysis |
-| Stella (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Research |
-| Mensah Joseph Selasie | [josephselasiemensah@gmail.com](josephselasiemensah@gmail.com) | Documentation |
+| Felistus Mukiri | [felistusmukiri@students.uonbi.ac.ke](mailto:felistusmukiri@students.uonbi.ac.ke) | Data Analysis |
 | Stella Mutai | [stellamutai254@gmail.com](mailto:your-email@example.com) | Research |
-| Mensah Joseph Selasie | [your-email@example.com](mailto:josephselasiemensah@gmail.com) | Documentation |
+| Mensah Joseph Selasie | [josephselasiemensah@gmail.com](mailto:josephselasiemensah@gmail.com) | Documentation |
 
 ## 📋 Assignment Details
 
@@ -47,6 +45,7 @@
 
 **Submitted to:** PLP Academy  
 **Date:** [Add submission date]
+
 
 
 
