@@ -553,12 +553,42 @@ Build dashboards for performance, drift, and operational metrics. Schedule regul
 
 
 ## Part 3: Critical Thinking (20 points)
-
-> **[TO BE FILLED]**
-> 
-> *This section will cover:*
 > - *Ethics & Bias (10 points)*
+i. How might biased training data affect patient outcomes in the case study?
+    - Biased training data can lead to systematic disparities in predictions.
+
+>   For example:
+      - If the data underrepresents certain groups (e.g., minorities, low-income patients), the model may underestimate their readmission risk, leading to inadequate follow-up care.
+      - Conversely, overestimating risk for certain populations could result in unnecessary interventions, increasing costs and patient
+
+ii. Suggest 1 strategy to mitigate this bias.
+- Perform fairness-aware model evaluation:
+      - Use metrics like equal opportunity difference or disparate impact ratio across demographic groups.
+      - If disparities are found, apply reweighting or adversarial debiasing techniques during training to reduce bias.
+
+
+
+
 > - *Trade-offs (10 points)*
+i. Discuss the trade-off between model interpretability and accuracy in healthcare.
+- High-accuracy models (e.g., deep neural networks, ensemble methods) may be opaque, making it hard for clinicians to understand why a prediction was made.
+- Interpretable models (e.g., logistic regression, decision trees) offer transparency, which is critical in healthcare for:
+      - Gaining clinician trust
+      - Supporting informed consent
+      - Meeting regulatory requirements
+Trade-off: You may sacrifice some predictive power for explainability, but in healthcare, trust and accountability often outweigh marginal gains in accuracy.
+
+
+ii. If the hospital has limited computational resources, how might this impact model choice?
+
+If the hospital has limited infrastructure:
+- Avoid computationally intensive models like deep learning.
+- Favor lightweight models such as:
+- Logistic regression
+- Decision trees
+ - Naive Bayes
+
+These models are faster to train, easier to deploy, and require less memory — making them more practical for real-time use in resource-constrained environments.
 
 ---
 

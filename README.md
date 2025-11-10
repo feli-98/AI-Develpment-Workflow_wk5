@@ -14,6 +14,8 @@
 | Felistus Mukiri | [mukirifelistus@gmail.com](mailto:mukirifelistus@gmail.com) | Data Analysis |
 | Stella (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Research |
 | Mensah Joseph Selasie | [josephselasiemensah@gmail.com](josephselasiemensah@gmail.com) | Documentation |
+| Stella Mutai | [stellamutai254@gmail.com](mailto:your-email@example.com) | Research |
+| Mensah Joseph Selasie | [your-email@example.com](mailto:josephselasiemensah@gmail.com) | Documentation |
 
 ## 📋 Assignment Details
 
